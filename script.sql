@@ -1,3 +1,5 @@
+SELECT * FROM tb_pessoa;
+
 -- INSERT INTO tb_pessoa
 -- (nome, fone, email, ativo)
 -- VALUES
